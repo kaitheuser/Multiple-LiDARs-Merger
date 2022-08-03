@@ -3,7 +3,7 @@ This repository is to merge multiple LiDAR point cloud data into one frame for e
 
 Raw LiDAR Data             |  Merged LiDAR Data
 :-------------------------:|:-------------------------:
-![](./media/raw_lidar)     |  ![](./media/merged_lidar_data_demo.mp4)
+![](./media/raw_lidar.gif)     |  ![](./media/merged_lidar_data_demo.gif)
 
 
 ## Requirements
