@@ -1,5 +1,10 @@
 # Multiple-LiDARs-Merger
-This repository is to merge multiple LiDAR point cloud data into one frame for each timestep.
+This repository is to merge multiple LiDAR point cloud data into one frame for each timestep using Python and rosbag package.
+
+Raw LiDAR Data             |  Merged LiDAR Data
+:-------------------------:|:-------------------------:
+![](./media/raw_lidar)     |  ![](./media/merged_lidar_data_demo.mp4)
+
 
 ## Requirements
 0. ROS Kinetic
